@@ -1,0 +1,109 @@
+
+
+header {
+	color: white;
+	background-color: #4aaaa5;
+	height: 60px;
+	width: 15%;
+	text-align: center;
+	padding: 15px;
+	margin-left: 5%;
+	font-size: 20pt;
+
+}
+
+h2{
+	color: #4aaaa5
+
+}
+
+body{
+
+background-color: #ffffff
+
+
+
+
+}
+
+#content{
+	background-color: #ffffff	
+	border: 5px solid black;
+
+
+}
+
+p{
+	clear: both;
+	overflow: auto;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	align-content: justify;
+}
+
+#portfolio {
+		padding-left: 5%;
+		color: #777777;
+		float: right;
+		font-size: 14pt;
+
+}
+
+#about{
+	color: #777777;
+	float:right;
+	font-size: 14pt;
+	
+
+}
+
+#contact{
+padding-left: 5%;
+padding-right: 5%;
+color: #777777;
+float:right;
+font-size: 14pt;
+}
+
+img{
+
+}
+
+h3{
+	color: #4aaaa5;
+	align-content: center;
+
+
+}
+ #Connect{
+ 	
+ 	background-color: white;
+ 	width: 30%;
+ 	height: 200px;
+ 	float: right;
+ 	align-content: center;
+ 	border: 3px solid gray;
+ 	margin-bottom: 5;
+
+
+
+ }
+
+
+footer{
+	padding-top: 10px;
+	padding:5px;
+	clear: both;
+	overflow: auto;
+	color: #777777;
+	background-color: #666666;
+	width: 100%;
+	height: 60px;
+	border: solid;
+	border-top-color: #4aaaa5;
+	border height: 20px;
+	text-align: center;
+
+}
+
+
+
